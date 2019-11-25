@@ -54,7 +54,7 @@ score_audio.src = "audio/score.mp3";
 
 var gap = 90;
 
-// При нажатии на какую-либо кнопку
+
 document.addEventListener("keydown", moveUp);
 
 function moveUp() {
